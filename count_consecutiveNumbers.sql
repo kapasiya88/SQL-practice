@@ -1,4 +1,4 @@
--- create table
+-- create table employee table
 Create table employee
 (id int,
 salary int);
